@@ -21,3 +21,5 @@ caracteristicas...
 
 
 [licencia]
+
+[agradecimientos]
